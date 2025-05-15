@@ -14,7 +14,6 @@
 ### 👨‍💻 About Me
 
 🎓 B.Tech in Mechanical Engineering from VIT Vellore (2023)  
-📊 Currently working as Analyst – Business Collections at **AU Small Finance Bank**  
 📌 Passionate about solving business problems through **data-driven decision making**  
 🌱 Currently learning advanced **machine learning, DAX, and cloud data tools**
 
