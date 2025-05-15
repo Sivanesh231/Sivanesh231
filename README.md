@@ -57,6 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanesh231&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanesh231&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+
 ---
 
 ### 📫 Let's Connect
